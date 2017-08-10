@@ -1,3 +1,6 @@
+# Editor/Project Workspaces and Internal Files
+*.sublime-project
+*.sublime-workspace
 
 # working files
 .vim/viminfo
